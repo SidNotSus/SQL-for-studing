@@ -99,21 +99,23 @@ VALUES  (00127,     'Январь',   003,    004,    006,    1,  25000),
 ```SQL
 SELECT * FROM НАНИМАТЕЛЬ;
 ```
-
+![screenshot 1](https://github.com/SidNotSus/SQL-for-studing/raw/main/images/s1.jpg)
 
 ```SQL
 SELECT * FROM "БЮРО НАЙМА";
 ```
-
+![screenshot 2](https://github.com/SidNotSus/SQL-for-studing/raw/main/images/s2.jpg)
 
 ```SQL
 SELECT * FROM ПРОФЕССИИ;
 ```
-
+![screenshot 3](https://github.com/SidNotSus/SQL-for-studing/raw/main/images/s3.jpg)
 
 ```SQL
 SELECT * FROM "ТРУДОВОЙ ДОГОВОР";
 ```
+![screenshot 4](https://github.com/SidNotSus/SQL-for-studing/raw/main/images/s4.jpg)
+
 
 4. 	Создать запросы для вывода:
       a)	названий всех нанимателей, вместе с местом их расположения;
